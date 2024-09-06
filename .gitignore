@@ -1,0 +1,6 @@
+.env
+.env
+.env.backup
+.env.production
+
+mysql/*
